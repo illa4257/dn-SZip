@@ -1,7 +1,7 @@
 # dn-SZip
 Class for working with 7-zip.
 
-Excample:
+Example:
 ```php
 $SZip = new SZip();
 
